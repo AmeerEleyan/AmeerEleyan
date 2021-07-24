@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 
 <p align = "center">
 
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Mkhasib&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "Mkhasib's Languages/Frameworks" width = 400 />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=AmeerEleyan&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "AmeerEleyan Languages/Frameworks" width = 400 />
 </p>
 
 
 <br />
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
-  <img src="https://profile-counter.glitch.me/mkhasib/count.svg"></img>
+  <img src="https://profile-counter.glitch.me/AmeerEleyan/count.svg"></img>
 </div>
 
 <br /><br />
