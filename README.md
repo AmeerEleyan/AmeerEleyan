@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mkhasib&count_private=true&theme=dracula&hide_border=true" alt = "Eyab0's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mkhasib&theme=dracula&hide_border=true" alt = "Eyab0's Rating" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=ameereleyan&count_private=true&theme=dracula&hide_border=true" alt = "AmeerEleyan Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ameereleyan&theme=dracula&hide_border=true" alt = "AmeerEleyan Rating" width = 400 >
 
 </p>
 
