@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1>About Me 📌</h1>
 
-- 👋 I am Ameer ELeyan
+- 👋 I am Ameer Eleyan
 - 💻 I am a computer science student at Birzeit University
 
 
