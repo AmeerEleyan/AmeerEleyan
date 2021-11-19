@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<br />
+<br/>
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
   <img src="https://profile-counter.glitch.me/AmeerEleyan/count.svg"></img>
