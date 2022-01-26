@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 👋 I am Ameer Eleyan
 - 💻 I am a computer science student at Birzeit University
-- ⚡ Very interested in ML and deep learning
 
 
 <br />
