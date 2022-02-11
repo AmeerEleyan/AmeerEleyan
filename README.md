@@ -63,6 +63,7 @@ Here are some ideas to get you started:
   <a href = "https://www.linkedin.com/in/ameer-e-8442751a5/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
   
 </p>
+<br /><br />
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
