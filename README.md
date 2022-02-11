@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <h2 align="center">AmeerEleyan Activity Graph🔥</h2>
 <br/>
 
-<a href="https://github.com/AmeerEleyan/github-readme-activity-graph"><img alt="AmeerEleyan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmeerEleyan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AmeerEleyan/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=AmeerEleyan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 
