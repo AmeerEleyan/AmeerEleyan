@@ -42,12 +42,10 @@ Here are some ideas to get you started:
 </p>
 
 <br/>
-<br/>
 
 <a href="https://github.com/AmeerEleyan/github-readme-activity-graph"><img alt="AmeerEleyan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmeerEleyan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
 
-<br/>
-<br/>
 
 <br/>
 <h2 align="center">Visitors 👀</h2>
