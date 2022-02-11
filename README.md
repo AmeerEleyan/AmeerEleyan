@@ -64,12 +64,10 @@ Here are some ideas to get you started:
  
 </p>
 
-<h2 align="center">cc😎</h2>
+<h2 align="center">Profiles😎</h2>
 <p align="center">
-  <a href = "https://codeforces.com/profile/Ameleyan"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" height = 30></a>
-  <a href = "mailto:ameer.eleyan.pgr@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "https://www.linkedin.com/in/ameer-e-8442751a5/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
-  <a href = "https://leetcode.com/AmeerEleyanPgr/"><img src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height = 30></a> 
+  <a href = "https://codeforces.com/profile/Ameleyan"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" height = 40></a>
+  <a href = "https://leetcode.com/AmeerEleyanPgr/"><img src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height = 40></a> 
  
 </p>
 
