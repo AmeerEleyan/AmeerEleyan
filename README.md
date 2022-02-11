@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>About Me 📌</h1>
+<hr>
 
 - 👋 I am Ameer Eleyan.
 - 💻 I am a computer science in 3ed year student at Birzeit University.
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 <br />
 
 <h2 align="center">Quick Overview 📈</h2>
+<hr>
   
   <p align = "center">
  
@@ -50,12 +52,14 @@ Here are some ideas to get you started:
 
 <br/>
 <h2 align="center">Visitors 👀</h2>
+<hr>
 <div align="center" >
   <img src="https://profile-counter.glitch.me/AmeerEleyan/count.svg"></img>
 </div>
 
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
+<hr>
 <p align="center">
   <a href = "https://codeforces.com/profile/Ameleyan"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" height = 30></a>
   <a href = "mailto:ameer.eleyan.pgr@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
