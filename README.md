@@ -39,10 +39,10 @@ Here are some ideas to get you started:
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=AmeerEleyan&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "AmeerEleyan Languages/Frameworks" width = 400 />
 </p>
 
-<h2 align="center">AmeerEleyan Activity Graph🔥</h2>
+<h2 align="center">Ameer Eleyan Activity Graph🔥</h2>
 <br/>
 
-<a href="https://github.com/AmeerEleyan/github-readme-activity-graph"><img alt="AmeerEleyan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmeerEleyan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AmeerEleyan/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=AmeerEleyan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 
