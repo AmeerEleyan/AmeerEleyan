@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 👋 I am Ameer Eleyan.
 - 💻 I am a computer science in 3ed year student at Birzeit University.
-- ⚡ Very interested in {ML, DP, AI}.
+- ⚡ Very interested in {ML, DL, AI}.
 - 📫 You can to reach me in **ameer.eleyan.pgr@gmail.com**
 
 
