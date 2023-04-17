@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Ameer Mohammad Eleyan.
-- 💻 I'm currently a 4th year computer science student at [Birzeit University](https://www.birzeit.edu/ar) & Intern as Software Engineer 
+- 💻 I'm currently Software Developer at [Birzeit University](https://www.birzeit.edu/ar)
 - ⚡ Very interested in {ML, DL, AI}.
 - 📫 You can to reach me in **ameer.eleyan.pgr@gmail.com**
 
